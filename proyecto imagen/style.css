@@ -1,0 +1,54 @@
+.container{
+    display: flex;    
+}
+
+.container div{
+    padding-left:15px;
+}
+
+.piedepagina a{
+    color:rgb(8, 176, 254);
+}
+
+.piedepagina{
+    padding-top:180px;
+    padding-left:15px;
+  
+}
+
+.buttom1{
+    color:aquamarine;
+}
+
+body{
+    background-image: url(./5594016.jpg);
+    background-size:cover;
+    background-attachment: fixed;
+}
+
+.galeriadefondosen4ky8k{
+    padding-inline-start: 27%;
+}
+.divimagen1{
+    padding-left:15%;
+}
+.divimagen2{
+    padding-left:15%;
+}
+.divimagen3{
+    padding-left:15%;
+}
+p{
+padding-right: 200px;
+}
+
+img{
+    border-radius:3cap;
+}
+
+b{
+    color: burlywood;
+}
+h2{
+    padding-left: 15px;
+}
